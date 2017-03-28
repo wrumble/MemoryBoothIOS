@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68E7416A1E842BC400BA3019"
-               BuildableName = "MemoryBooth.app"
-               BlueprintName = "MemoryBooth"
-               ReferencedContainer = "container:MemoryBooth.xcodeproj">
+               BlueprintIdentifier = "C6F2BA02CC78EB53842177EB323C1ED9"
+               BuildableName = "Pods_MemoryBooth.framework"
+               BlueprintName = "Pods-MemoryBooth"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68E7416A1E842BC400BA3019"
-            BuildableName = "MemoryBooth.app"
-            BlueprintName = "MemoryBooth"
-            ReferencedContainer = "container:MemoryBooth.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68E7416A1E842BC400BA3019"
-            BuildableName = "MemoryBooth.app"
-            BlueprintName = "MemoryBooth"
-            ReferencedContainer = "container:MemoryBooth.xcodeproj">
+            BlueprintIdentifier = "C6F2BA02CC78EB53842177EB323C1ED9"
+            BuildableName = "Pods_MemoryBooth.framework"
+            BlueprintName = "Pods-MemoryBooth"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "68E7416A1E842BC400BA3019"
-            BuildableName = "MemoryBooth.app"
-            BlueprintName = "MemoryBooth"
-            ReferencedContainer = "container:MemoryBooth.xcodeproj">
+            BlueprintIdentifier = "C6F2BA02CC78EB53842177EB323C1ED9"
+            BuildableName = "Pods_MemoryBooth.framework"
+            BlueprintName = "Pods-MemoryBooth"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
